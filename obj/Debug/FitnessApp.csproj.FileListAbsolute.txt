@@ -1,0 +1,16 @@
+C:\codes\FitnessApp\bin\Debug\FitnessApp.exe.config
+C:\codes\FitnessApp\bin\Debug\FitnessApp.exe
+C:\codes\FitnessApp\bin\Debug\FitnessApp.pdb
+C:\codes\FitnessApp\obj\Debug\FitnessApp.csproj.AssemblyReference.cache
+C:\codes\FitnessApp\obj\Debug\FitnessApp.csproj.SuggestedBindingRedirects.cache
+C:\codes\FitnessApp\obj\Debug\FitnessApp.Properties.Resources.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.csproj.GenerateResource.cache
+C:\codes\FitnessApp\obj\Debug\FitnessApp.csproj.CoreCompileInputs.cache
+C:\codes\FitnessApp\obj\Debug\FitnessApp.exe
+C:\codes\FitnessApp\obj\Debug\FitnessApp.pdb
+C:\codes\FitnessApp\obj\Debug\FitnessApp.dashboard.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.UserForm.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.customerform.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.login.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.TrainingPlanForm.resources
+C:\codes\FitnessApp\obj\Debug\FitnessApp.customerTrainingPlan.resources
